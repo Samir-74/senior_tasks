@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'task-3/register-screen.dart';
+import 'task-4/messages-screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: RegisterScreen(),
+      home: MessagesScreen(),
     );
   }
 }
