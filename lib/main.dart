@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'task-3/register-screen.dart';
 
 void main() {
